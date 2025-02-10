@@ -32,7 +32,7 @@ import SoftwareDeveloper.Danielangel22;
 class Bio extends SoftwareDeveloper {
   private string name = "Daniel Angel";
   private string title = 'Backend Developer | Mid-Senior';
-  private string company  = 'Tecnoin | Remote';
+  private string work  = 'Remote';
   private string location = 'El Salvador, CA';
 }
 
